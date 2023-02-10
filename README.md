@@ -24,6 +24,9 @@
 <img align="left" alt="HTML" width="40"  height="40" src="icons/html5.png" />
 <img align="left" alt="CSS" width="40" height="40" src="icons/css3.png" />
 <img align="left" alt="Git" width="40" height="40" src="icons/git.png" />
+<br />
+<br />
+<br />
 <img align="left" alt="Bootstrap" width="40" height="40" src="icons/bootstrap.png" />
 <img align="left" alt="MySQL" width="40" height="40" src="icons/mysql.png" />
 <img align="left" alt="SQLite" width="40" height="30" src="icons/sqlite.jpg" />
