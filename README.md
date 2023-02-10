@@ -2,11 +2,11 @@
 
 ### About me
 
-- 💻 I'm a Backend Developer . I studied Pytnon and the Django framework.
-- 📚 I'm currently learning JavaScript and React framework.
+- 💻 I'm full stack developer . I studied Pytnon, JS, Django, React, Vue.js.
+- 📚 
 - 🌍 I love to travel and visit new, interesting places.
-- 🤩 I'm like write code and want to be Full Stack Developer.
-- 🤔 I’m looking for an internship to gain experience
+- 🤩 I'm like write code.
+- 🤔 I am constantly striving for development.
 
 ### Connect with me:
 
