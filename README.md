@@ -15,27 +15,38 @@
 
 <br />
 
-### Languages and Tools:
+### Frontend:
+<img align="left" alt="JavaScript" width="40" height="40" src="icons-svg/js.svg" />
+<img align="left" alt="TS" width="40" height="40" src="icons-svg/ts.svg" />
+<img align="left" alt="Vue.js" width="40" height="40" src="icons-svg/vue.svg" />
+<img align="left" alt="Nuxt.js" width="40" height="40" src="icons-svg/nuxtjs.svg" />
+<img align="left" alt="React" width="40" height="40" src="icons-svg/react.svg" />
+<img align="left" alt="Redux" width="40" height="40" src="icons-svg/redux.svg" />
+<img align="left" alt="HTML" width="40"  height="40" src="icons-svg/html.svg" />
+<img align="left" alt="CSS" width="40" height="40" src="icons-svg/css.svg" />
+<img align="left" alt="Sass" width="40" height="40" src="icons-svg/sass.svg" />
+<img align="left" alt="Bootstrap" width="40" height="40" src="icons-svg/boodstrap.svg" />
+<img align="left" alt="Tailwind" width="40" height="40" src="icons-svg/tailwind.svg" />
+<br />
+<br />
 
-<img align="left" alt="Python" width="40" height="40" src="icons/python.png" />
-<img align="left" alt="JavaScript" width="40" height="40" src="icons/js.png" />
-<img align="left" alt="Django" width="40" height="40" src="icons/django.png" />
-<img align="left" alt="React" width="40" height="40" src="icons/react.png" />
-<img align="left" alt="HTML" width="40"  height="40" src="icons/html5.png" />
-<img align="left" alt="CSS" width="40" height="40" src="icons/css3.png" />
-<img align="left" alt="Git" width="40" height="40" src="icons/git.png" />
-<br />
-<br />
-<br />
-<img align="left" alt="Bootstrap" width="40" height="40" src="icons/bootstrap.png" />
-<img align="left" alt="MySQL" width="40" height="40" src="icons/mysql.png" />
-<img align="left" alt="SQLite" width="40" height="30" src="icons/sqlite.jpg" />
-<img align="left" alt="PostgreSQL" width="40" height="40" src="icons/postgresql.png" />
-<img align="left" alt="Vue.js" width="40" height="40" src="icons/vue.png" />
-<img align="left" alt="TS" width="40" height="40" src="icons/tspng.png" />
-<img align="left" alt="Redux" width="40" height="40" src="icons/redux.png" />
+### Backend:
+<img align="left" alt="Python" width="40" height="40" src="icons-svg/python.svg" />
+<img align="left" alt="Node.js" width="40" height="40" src="icons-svg/nodejs.svg" />
+<img align="left" alt="Django" width="40" height="40" src="icons-svg/django.svg" />
+<img align="left" alt="MySQL" width="40" height="40" src="icons-svg/mysql.svg" />
+<img align="left" alt="SQLite" width="40" height="30" src="icons-svg/sqllight.svg" />
+<img align="left" alt="PostgreSQL" width="40" height="40" src="icons-svg/postgresql.svg" />
 
 <br />
+<br  />
+
+### Other tools:
+
+<img align="left" alt="Git" width="40" height="40" src="icons-svg/git.svg" />
+<img align="left" alt="Figma" width="40" height="40" src="icons-svg/figma.svg" />
+<img align="left" alt="Vite" width="40" height="40" src="icons-svg/vite.svg" />
+<img align="left" alt="Webpack" width="40" height="40" src="icons-svg/webpack.svg" />
 
 [telegram]: https://t.me/pepperhotmsk
 [linkedin]: https://www.linkedin.com/in/stanislav-ocunev-203106238/
