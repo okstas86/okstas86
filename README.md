@@ -2,7 +2,7 @@
 
 ### About me
 
-- 💻As a full stack developer, I have experience with Python, JavaScript, Django, React, Vue.js, Nuxt.js  enabling me to work on a wide range of projects and tackle both frontend and backend development tasks.
+- 💻As a full stack developer, I have experience with Python, JavaScript, Django,Node.js, React, Vue.js, Nuxt.js  enabling me to work on a wide range of projects and tackle both frontend and backend development tasks.
 - 📚 I have a strong passion for continuous learning and staying updated with the latest technologies and industry trends. I actively seek out new opportunities to expand my knowledge and skills in the field of software development.
 - 🌍Besides coding, I have a love for traveling and exploring new, captivating destinations. It allows me to immerse myself in different cultures, broaden my horizons, and gain inspiration from diverse experiences.
 - 🤩  I find immense joy in the process of writing code and turning ideas into functional and efficient software solutions. Solving complex problems and building innovative applications are among my favorite challenges.
