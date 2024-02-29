@@ -27,6 +27,8 @@
 <img align="left" alt="Sass" width="40" height="40" src="icons-svg/sass.svg" />
 <img align="left" alt="Bootstrap" width="40" height="40" src="icons-svg/boodstrap.svg" />
 <img align="left" alt="Tailwind" width="40" height="40" src="icons-svg/tailwind.svg" />
+<img align="left" alt="Three.js" width="40" height="40" src="icons-svg/threejs.svg" />
+<img align="left" alt="Quasar" width="40" height="40" src="icons-svg/quasar.svg" />
 <br />
 <br />
 
@@ -37,6 +39,7 @@
 <img align="left" alt="MySQL" width="40" height="40" src="icons-svg/mysql.svg" />
 <img align="left" alt="SQLite" width="40" height="30" src="icons-svg/sqllight.svg" />
 <img align="left" alt="PostgreSQL" width="40" height="40" src="icons-svg/postgresql.svg" />
+<img align="left" alt="MongoDB" width="40" height="40" src="icons-svg/mongodb.svg" />
 
 <br />
 <br  />
