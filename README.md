@@ -29,6 +29,7 @@
 <img align="left" alt="Tailwind" width="40" height="40" src="icons-svg/tailwind.svg" />
 <img align="left" alt="Three.js" width="40" height="40" src="icons-svg/threejs.svg" />
 <img align="left" alt="Quasar" width="40" height="40" src="icons-svg/quasar.svg" />
+<img align="left" alt="Primevue" width="40" height="40" src="icons-svg/primevue.svg" />
 <br />
 <br />
 
