@@ -11,11 +11,13 @@
 ### Connect with me:
 
 [<img align="left" alt="Pepperhotmsk | Telegram" width="26px" src="icons/telegram.jpg">][telegram]
-[<img align="left" alt="Pepperhotmsk | Linkedin" width="26px" src="icons/linkedin.png">][linkedin]
+[<img align="left" alt="Pepperhotmsk | Linkedin" width="32px" src="icons/linkedin.png">][linkedin]
 
 <br />
 
 ### Frontend:
+
+
 <img align="left" alt="JavaScript" width="40" height="40" src="icons-svg/js.svg" />
 <img align="left" alt="TS" width="40" height="40" src="icons-svg/ts.svg" />
 <img align="left" alt="Vue.js" width="40" height="40" src="icons-svg/vue.svg" />
@@ -30,10 +32,14 @@
 <img align="left" alt="Three.js" width="40" height="40" src="icons-svg/threejs.svg" />
 <img align="left" alt="Quasar" width="40" height="40" src="icons-svg/quasar.svg" />
 <img align="left" alt="Primevue" width="40" height="40" src="icons-svg/primevue.svg" />
+
 <br />
 <br />
 
+
+---
 ### Backend:
+
 <img align="left" alt="Python" width="40" height="40" src="icons-svg/python.svg" />
 <img align="left" alt="Node.js" width="40" height="40" src="icons-svg/nodejs.svg" />
 <img align="left" alt="Django" width="40" height="40" src="icons-svg/django.svg" />
@@ -45,7 +51,10 @@
 <br />
 <br  />
 
+---
 ### Other tools:
+
+
 
 <img align="left" alt="Git" width="40" height="40" src="icons-svg/git.svg" />
 <img align="left" alt="Figma" width="40" height="40" src="icons-svg/figma.svg" />
