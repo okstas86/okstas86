@@ -11,7 +11,7 @@
 ### Connect with me:
 [![Gmail Badge](https://img.shields.io/badge/-stanislavocunev1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanislavocunev1@gmail.com)](mailto:stanislavocunev1@gmail.com)
  [![Linkedin Badge](https://img.shields.io/badge/-stanislavocunev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanislav-ocunev-203106238/)](https://www.linkedin.com/in/stanislav-ocunev-203106238/)
- [![Telegram Badge](https://img.shields.io/badge/-stanislavocunev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/stanislav-ocunev-203106238/)](https://www.linkedin.com/in/stanislav-ocunev-203106238/)
+ [![Telegram Badge](https://img.shields.io/badge/-stanislavocunev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ocunevstas)](https://t.me/ocunevstas)
 
 
 
